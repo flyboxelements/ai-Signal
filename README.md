@@ -1,2 +1,2 @@
-# ai-SignalProcessing
+# ai-Signal
 Artificial Intelligence Signal 
